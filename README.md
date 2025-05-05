@@ -1,3 +1,11 @@
+# AgroCrypto Labs
+[![Crates.io](https://img.shields.io/crates/v/agrocrypto-core.svg)](https://crates.io/crates/agrocrypto-core)
+[![License: MIT OR Apache-2.0](https://img.shields.io/crates/l/agrocrypto-core)](https://opensource.org/licenses)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Status](https://img.shields.io/badge/project-Verified%20Blockchain%20Infra-orange)
+![Deployed](https://img.shields.io/badge/deployed-AWS-blue)
+![Deployed](https://img.shields.io/badge/deployed-Cloudflare-orange)
+![Deployed](https://img.shields.io/badge/deployed-OpenAI-black)
 [![Release](https://img.shields.io/pypi/v/qiskit-addon-aqc-tensor.svg?label=Release)](https://github.com/Qiskit/qiskit-addon-aqc-tensor/releases)
 ![Platform](https://img.shields.io/badge/%F0%9F%92%BB%20Platform-Linux%20%7C%20macOS%20%7C%20Windows-informational)
 [![Python](https://img.shields.io/pypi/pyversions/qiskit-addon-aqc-tensor?label=Python&logo=python)](https://www.python.org/)
